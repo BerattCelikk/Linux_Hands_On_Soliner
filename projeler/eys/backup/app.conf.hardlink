@@ -1,0 +1,4 @@
+APP_NAME=envanter-yonetim-sistemi
+DB_HOST=10.0.4.15
+DB_PORT=5432
+ENV=development

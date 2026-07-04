@@ -1,0 +1,4 @@
+2026-07-01 09:12:03 INFO  Uygulama baslatildi
+2026-07-01 09:12:05 INFO  Veritabani baglantisi kuruldu
+2026-07-01 09:14:41 ERROR Zaman asimi: DB_HOST 10.0.4.15 yanit vermiyor
+2026-07-01 09:15:02 INFO  Yeniden baglanildi
