@@ -7,16 +7,6 @@ iş istasyonu teslim etti. Takım lideri **Yasin Kaya**, sana ilk görevin olara
 şirketin yeni geliştireceği **"Envanter Yönetim Sistemi" (kod adı: `eys`)**
 projesinin dosya/dizin altyapısını kurmanı ve ekip için kullanıcı/grup/izin
 yapılandırmasını hazırlamanı istiyor.
-
-Görevleri sırasıyla, birbirinin üzerine inşa ederek tamamla — adım 8, adım 2'de
-oluşturduğun dosyaya bağlı; adım 17, adım 13'te oluşturduğun kullanıcıyı kullanıyor.
-
-> Bu lab'ı bir VM, konteyner veya test amaçlı bir kullanıcı hesabında çalıştır.
-> Kullanıcı/grup ve root erişimi görevleri `sudo`/root yetkisi gerektirir.
-
-> **Not:** Her görevin altında `### ✅ Çözüm` başlığıyla komutlar ve açıklamalar eklendi.
-> Komutları kendi terminalinde sırayla çalıştırarak takip edebilirsin.
-
 ---
 
 ## Bölüm 1 — Proje İskeletini Kurmak
